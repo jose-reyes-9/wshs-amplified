@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Man must explore, and this is exploration at its greatest"
-subtitle:   "Problems look mighty small from 150 miles up"
+title:      "Are annotations worth it?"
+subtitle:   "Writing may help readers, but in school, the way you implement it is more important."
 date:       2014-09-24 12:00:00
-author:     "Start Bootstrap"
+author:     "TheSoundler"
 header-img: "img/post-bg-06.jpg"
 ---
 
