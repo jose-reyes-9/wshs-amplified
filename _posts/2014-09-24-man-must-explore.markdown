@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Are annotations worth it?"
-subtitle:   "Writing may help readers, but in school, the way you implement it is more important."
+subtitle:   "In schools, it's all about how you present the material."
 date:       2014-09-24 12:00:00
 author:     "TheSoundler"
 header-img: "img/post-bg-06.jpg"
