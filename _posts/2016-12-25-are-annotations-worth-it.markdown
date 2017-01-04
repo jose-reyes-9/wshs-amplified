@@ -43,8 +43,16 @@ comments: true
 
 <p>Although annotations may just be a matter of preference, research tells us:</p>
 
-<h2 class="section-heading">The Final Frontier</h2>
+<h2 class="section-heading">Writing Things Down Helps</h2>
+<p>In a study done, there were two groups of students. One group annotated as they read, and one did not. The results concluded that both groups retained about 40 percent of information, but the group that annotated could better recall the key points.</p>
 
+<p>So Vikings, here’s where you come in. The English Dept. needs your voice and ideas. Sound off in the comments below.</p>
+
+<p>Do annotations help you? Why and how? What do you like about annotating? Why should English instructors keep them?</p>
+
+<p>Do annotations deter you from reading? What about them don’t you like? Do you have input or ideas of how teachers could utilize them?</p>
+
+<p>Vikings- be constructive! We need your input!</p>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
