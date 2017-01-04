@@ -11,7 +11,7 @@ comments: true
 <p>Annotations, a true example of a double-edged sword. They can kill reading or save reading for students. Annotations, the anti-hero? Our English Department here at Woodbridge varies in their implementation of annotations.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-06-img1.jpg" alt="Twitter Poll Result">
+    <img class="img-responsive" src="{{ site.baseurl }}/img/post-06-img1.jpg" alt="Twitter Poll Result">
 </a>
 
 <p>Some teachers, both AP and not AP, utilize annotations by obligating students to look for six regarding targets. Those targets are:</p>
