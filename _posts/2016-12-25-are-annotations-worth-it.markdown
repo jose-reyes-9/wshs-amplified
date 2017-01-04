@@ -38,7 +38,7 @@ comments: true
 <p>1th grade is a big year. Both the Writing and Reading SOL’s reside during this year and they are graduation requirements. Could annotations, whether you like it or not, be the determining factor that gets students over the passing score of 400? Well, Reading SOL scores have gone up 4 percent since 2014, the year in which these targets were put in place and mainstreamed throughout the department.</p>
 
 <!-- Not every teacher does this. Quote from Mr.Trott with explanation -->
-<h2 class="section-heading">Do they miss it?</h2>
+<h2 class="section-heading">Do Students Miss It?</h2>
 
 <p>However, not every teacher pushes their students to color-code or create symbols or even annotate at all. However, this doesn’t mean that these instructors are against annotations or don’t see the value. Mr. Trott, Pre-AP English 10 and AP Lang. instructor, comments</p>
 
