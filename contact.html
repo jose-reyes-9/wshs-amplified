@@ -9,7 +9,8 @@ header-img: "img/contact-bg.jpg"
 <!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
 <!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
 <!-- NOTE: To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
-<form name="sentMessage" id="contactForm" novalidate>
+<form name="sentMessage" id="contactForm" action="https://formspree.io/woodbridgeamplified@gmail.com"
+      method="POST">
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Name</label>
@@ -20,7 +21,7 @@ header-img: "img/contact-bg.jpg"
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Email Address</label>
-            <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
+            <input name="_replyto" type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
             <p class="help-block text-danger"></p>
         </div>
     </div>
