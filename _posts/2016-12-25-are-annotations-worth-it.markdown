@@ -21,11 +21,11 @@ comments: true
   <li>Making Inferences Drawing Conclusions</li>
 </ul>
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+<p>Some of the instructors here at Woodbridge use symbols while others use color-coding. These tactics are intended as tools for students to identify the targets and analyze the literature. Mrs. Morse, an annotation advocate in the department, says,</p>
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+<blockquote>Annotating serves as a visual marker and a physical connection with the text. The structure provided by teachers is often just a way to show students new ways to look at text, but in reality, annotation should be organic to the reader.</blockquote>
 
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+<p>Her point is understandable; she is providing the students with guidelines for their annotations, this way they can have a different perspective on the text. The students may deeper explore the targets, and discover that annotations are a natural part of reading.</p>
 
 <h2 class="section-heading">The Final Frontier</h2>
 
