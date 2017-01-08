@@ -2,7 +2,7 @@
 layout:     post
 title:      "Are annotations worth it?"
 subtitle:   "In schools, it's all about how you present the material."
-date:       2016-12-25 12:00:00
+date:       2017-01-07 12:00:00
 author:     "TheSoundler"
 header-img: "img/post-bg-06.jpg"
 comments: true
