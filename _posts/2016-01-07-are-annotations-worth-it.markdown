@@ -11,7 +11,7 @@ comments: true
 <p>Annotations, a true example of a double-edged sword. They can kill reading or save reading for students. Annotations, the anti-hero? Our English Department here at Woodbridge varies in their implementation of annotations.</p>
 
 <!-- Twitter poll embed  -->
-<div style="text-align: center;">
+<div style="margin-left: auto; margin-right: auto;">
   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Do you think annotations are worth it?</p>&mdash; WSHS Amplified (@WSHSAmplified) <a href="https://twitter.com/WSHSAmplified/status/809077793216745472">December 14, 2016</a></blockquote>
   <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
