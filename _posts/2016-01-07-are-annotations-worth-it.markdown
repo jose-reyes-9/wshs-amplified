@@ -69,7 +69,7 @@ comments: true
 <p>Vikings- be constructive! We need your input!</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/post/post-img-02.jpg" alt="">
 </a>
 
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
