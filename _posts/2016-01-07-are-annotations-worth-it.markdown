@@ -4,11 +4,15 @@ title:      "Are annotations worth it?"
 subtitle:   "In schools, it's all about how you present the material."
 date:       2017-01-07 12:00:00
 author:     "TheSoundler"
-header-img: "img/post-bg-06.jpg"
+header-img: "img/post/post-bg-02.jpg"
 comments: true
 ---
 <!-- Start -->
 <p>Annotations, a true example of a double-edged sword. They can kill reading or save reading for students. Annotations, the anti-hero? Our English Department here at Woodbridge varies in their implementation of annotations.</p>
+
+<!-- Twitter poll embed  -->
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Do you think annotations are worth it?</p>&mdash; WSHS Amplified (@WSHSAmplified) <a href="https://twitter.com/WSHSAmplified/status/809077793216745472">December 14, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p>Some teachers, both AP and not AP, utilize annotations by obligating students to look for six regarding targets. Those targets are:</p>
 
