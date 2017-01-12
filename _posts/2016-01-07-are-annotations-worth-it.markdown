@@ -58,7 +58,7 @@ comments: true
 <!-- Writing things down section -->
 <h2 class="section-heading">There's a method to the madness</h2>
 
-<p>In a study done, there were two groups of students. One group annotated as they read, and one did not. The results concluded that both groups retained about 40 percent of information, but the group that annotated could better recall the key points.</p>
+<p>In a study done, there were two groups of students. One group annotated as they read, and one did not. The results concluded that both groups retained about 40 percent of the information, but the group that annotated could better recall the key points.</p>
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/post/post-img-02.PNG" alt="statistics from data recall study">
