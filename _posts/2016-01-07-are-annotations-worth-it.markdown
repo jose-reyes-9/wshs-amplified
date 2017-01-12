@@ -64,7 +64,7 @@ comments: true
     <img src="{{ site.baseurl }}/img/post/post-img-02.PNG" alt="statistics from data recall study">
 </a>
 
-<span class="caption text-muted">Although both retained 40% of the information, the group that annotated retained the most important key facts</span>
+<span class="caption text-muted">Although both retained 40% of the information, the group that annotated retained the most important key facts. Brain image: https://dribbble.com/megdraws</span>
 
 <hr>
 
@@ -75,5 +75,3 @@ comments: true
 <p>Do annotations deter you from reading? What about them don’t you like? Do you have input or ideas of how teachers could utilize them?</p>
 
 <p>Vikings- be constructive! We need your input!</p>
-
-<blockquote>Brain image: https://dribbble.com/megdraws</blockquote>
