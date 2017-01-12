@@ -56,7 +56,7 @@ comments: true
 <p>Although annotations may just be a matter of preference, research tells us:</p>
 
 <!-- Writing things down section -->
-<h2 class="section-heading">Theres a method to the madness</h2>
+<h2 class="section-heading">There's a method to the madness</h2>
 
 <p>In a study done, there were two groups of students. One group annotated as they read, and one did not. The results concluded that both groups retained about 40 percent of information, but the group that annotated could better recall the key points.</p>
 
