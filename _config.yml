@@ -6,7 +6,8 @@ email: woodbridgeamplified@gmail.com
 copyright_name: Amplified Inc.
 description: "A digital platform that empowers students by amplifying their voices to higher levels of administration."
 baseurl: ""
-url: "wshsamplified.com"
+url: https://www.wshsamplified.com   # with the https protocol
+enforce_ssl: www.wshsamplified.com.com   # without any protocol
 twitter_username: WSHSAmplified
 github_username:  WSHSAmplified
 facebook_username:  WSHSAmplified
