@@ -60,6 +60,14 @@ comments: true
 
 <p>In a study done, there were two groups of students. One group annotated as they read, and one did not. The results concluded that both groups retained about 40 percent of information, but the group that annotated could better recall the key points.</p>
 
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post/post-img-02.PNG" alt="statistics from data recall study">
+</a>
+
+<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+
+<hr>
+
 <p>So Vikings, here’s where you come in. The English Dept. needs your voice and ideas. Sound off in the comments below.</p>
 
 <p>Do annotations help you? Why and how? What do you like about annotating? Why should English instructors keep them?</p>
@@ -67,9 +75,3 @@ comments: true
 <p>Do annotations deter you from reading? What about them don’t you like? Do you have input or ideas of how teachers could utilize them?</p>
 
 <p>Vikings- be constructive! We need your input!</p>
-
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post/post-img-02.jpg" alt="">
-</a>
-
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
