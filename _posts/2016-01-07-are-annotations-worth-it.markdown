@@ -4,7 +4,7 @@ title:      "Are annotations worth it?"
 subtitle:   "They have the power to kill reading or save it!"
 date:       2017-01-07 12:00:00
 author:     "WSHS Voices"
-header-img: "img/post/post-bg-02.jpg"
+header-img: "img/post/post-bg-01.jpg"
 comments: true
 ---
 <!-- Start -->
@@ -61,10 +61,10 @@ comments: true
 <p>In a study done, there were two groups of students. One group annotated as they read, and one did not. The results concluded that both groups retained about 40 percent of the information, but the group that annotated could better recall the key points.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post/post-img-02.PNG" alt="statistics from data recall study">
+    <img src="{{ site.baseurl }}/img/post/post-img-01.PNG" alt="statistics from data recall study">
 </a>
 
-<span class="caption text-muted">Although both retained 40% of the information, the group that annotated retained the most important key facts. Brain image: https://dribbble.com/megdraws</span>
+<span class="caption text-muted">Find the great image <a href="https://dribbble.com/megdraws">here</a>!</span>
 
 <hr>
 
