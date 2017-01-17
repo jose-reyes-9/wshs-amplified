@@ -68,7 +68,7 @@ comments: true
 
 <hr>
 
-<p>So Vikings, here’s where you come in. The English Dept. needs your voice and ideas. Sound off in the comments below.</p>
+<p>So Vikings, here’s where you come in. Your community and school needs your voice and ideas. Sound off in the comments below.</p>
 
 <p>Do annotations help you? Why and how? What do you like about annotating? Why should English instructors keep them?</p>
 
