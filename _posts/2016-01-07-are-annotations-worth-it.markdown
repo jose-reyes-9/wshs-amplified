@@ -39,7 +39,7 @@ comments: true
 
 <blockquote>In my opinion, annotations don’t help, and I think I speak for the vast majority of my class when I say that. Not only are they not liked, but they are very stressful. There is not one day where I can read a book without annotating for something, it really takes away the joy of reading for me.</blockquote>
 
-<p>11th grade is a big year. Both the Writing and Reading SOL’s reside during this year and they are graduation requirements. Could annotations, whether you like it or not, be the determining factor that gets students over the passing score of 400? Well, Reading SOL scores have gone up 4 percent since 2014, the year in which these targets were put in place and mainstreamed throughout the department.</p>
+<p>11th grade is a big year. Both the Writing and Reading SOL’s reside during this year and they are graduation requirements. Could annotations, whether you like it or not, be the determining factor that gets students over the passing score of 400? Well, Reading <a href="https://p1pe.doe.virginia.gov/reportcard/report.do?division=75&schoolName=All">SOL scores</a> have gone up 4 percent since 2014, the year in which these targets were put in place and mainstreamed throughout the department.</p>
 
 <!-- Not every teacher does this. Quote from Mr.Trott with explanation -->
 <h2 class="section-heading">Do Students Miss It?</h2>
