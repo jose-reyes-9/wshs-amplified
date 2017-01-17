@@ -61,7 +61,7 @@ comments: true
 <p>In a study done, there were two groups of students. One group annotated as they read, and one did not. The results concluded that both groups retained about 40 percent of the information, but the group that annotated could better recall the key points.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post/post01-img01.PNG" alt="statistics from data recall study">
+    <img src="{{ site.baseurl }}/img/post/inner/post01-img01.PNG" alt="statistics from data recall study">
 </a>
 
 <span class="caption text-muted">Find the great image <a href="https://dribbble.com/megdraws">here</a>!</span>
