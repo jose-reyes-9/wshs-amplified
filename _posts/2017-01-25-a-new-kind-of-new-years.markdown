@@ -68,7 +68,7 @@ comments: true
 <p>This is just another way that goals can have an impact early on in someone's life. Setting goals now can prepare students for what lies ahead. Ms. Abney, principal of Woodbridge Senior High School, says</p>
 
 <!-- Abney Quote -->
-<blockquote>Goal setting is important because they serve as small milestones that will guide you to your greater goal. You will start to see the steps you need to take, and the support you will need from others to reach this greater goal.” She also thinks “It is important for teachers to know student goals, because they can be the support that students will need to succeed.</blockquote>
+<blockquote>Goal setting is important because they serve as small milestones that will guide you to your greater goal. You will start to see the steps you need to take, and the support you will need from others to reach this greater goal. I also believe it is important for teachers to know student goals, because they can be the support that students will need to succeed.</blockquote>
 
 <!-- Abney quote explanation -->
 <p>Collaboration between students and teachers, although proven to be effective and inspiring (to teachers as well as students), is not seen nearly enough within the classroom.</p>
