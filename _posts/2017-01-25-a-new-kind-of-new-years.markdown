@@ -54,6 +54,11 @@ comments: true
 
 <!-- Students Missing the Targets Section -->
 <h2 class="section-heading">Students Missing the Targets</h2>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post/inner/post02-img02.png" alt="Missing the target. dart board">
+</a>
+
 <p>It is said that the biggest tragedy in life lies not in aiming high and missing, but in aiming low and hitting. The fear of failing to complete a goal is actually what keeps most from chasing and completing those goals. Students learn best when taught by other students. A program that implements this approach is Future Focus. Scott Morgan, the executive chair of Future Focus, informs us</p>
 
 <!-- Scott Morgan quote -->
