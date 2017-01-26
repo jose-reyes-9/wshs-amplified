@@ -2,7 +2,7 @@
 layout:     post
 title:      "Are annotations worth it?"
 subtitle:   "They have the power to kill reading or save it!"
-date:       2017-01-07 12:00:00
+date:       2017-11-07 12:00:00
 author:     "WSHS Voices"
 header-img: "img/post/post-bg-01.jpg"
 comments: true
@@ -14,6 +14,7 @@ comments: true
   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Do you think annotations are worth it?</p>&mdash; WSHS Amplified (@WSHSAmplified) <a href="https://twitter.com/WSHSAmplified/status/809077793216745472">December 14, 2016</a></blockquote>
   <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<!-- Background Information -->
 <p>Some teachers, both AP and not AP, utilize annotations by obligating students to look for six regarding targets. Those targets are:</p>
 
 <ul>
@@ -69,9 +70,14 @@ comments: true
 <hr>
 
 <p>So Vikings, here’s where you come in. Your community and school needs your voice and ideas. Sound off in the comments below.</p>
-
 <p>Do annotations help you? Why and how? What do you like about annotating? Why should English instructors keep them?</p>
-
 <p>Do annotations deter you from reading? What about them don’t you like? Do you have input or ideas of how teachers could utilize them?</p>
-
 <p>Vikings- be constructive! We need your input!</p>
+
+<hr>
+
+<p>Sources</p>
+<ul>
+  <li><a href="https://p1pe.doe.virginia.gov/reportcard/report.do?division=75&schoolName=All">SOL Scores</a></li>
+  <li><a href="https://dribbble.com/megdraws">Brain Image</a></li>
+</ul>
