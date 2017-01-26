@@ -8,7 +8,7 @@ header-img: "img/post/post-bg-02.JPG"
 comments: true
 ---
 <!-- Start -->
-<p>With another year behind us, a new one in motion, it is time to start setting those resolutions again. I will exercise this year, I will get all A’s, I will stop procrastinating, I will earn more money, we hear them over and over every year. Goals we set on January 1st, are usually long gone before February, but could these goals if properly executed, be the solution to our extracurricular, behavioral, and academic troubles?
+<p>With another year behind us, and a new one in motion, it is time to start setting those resolutions again. I will exercise this year, I will get all A’s, I will stop procrastinating, I will earn more money, we hear them over and over every year. Goals we set on January 1st, are usually long gone before February, but could these goals if properly executed, be the solution to our extracurricular, behavioral, and academic troubles?
 </p>
 
 <!-- Twitter Poll Embed -->
