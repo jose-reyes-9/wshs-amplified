@@ -29,6 +29,11 @@ comments: true
 
 <!-- Comparing both sides -->
 <h2 class="section-heading">Is it Always Out with the Old, and in with the New?</h2>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post/inner/post02-img01.jpg" alt="old and new">
+</a>
+
 <p>Classrooms are changing every year along with the new generations that enter them. Teachers set new goals for students in hopes to help them adapt to the environment they are going to be in everyday. Setting goals will allow students to visualize where they are, and where they want to be by a certain time. Ms. Landes, a World History One teacher, implements goals in order to help her students trace their progress and personal growth. After a short time with this program in place, she says</p>
 
 <!-- Ms. Landes Quote -->
@@ -36,10 +41,6 @@ comments: true
 
 <!-- Landes Quote Explanation -->
 <p>This is a step in the right direction for helping students increase their performance in the classroom because it allows them, as well as their teachers, to see the concrete evidence supporting their advancements. This is just implementation of goals, but what about mentors?</p>
-
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post/inner/post02-img01.jpg" alt="old and new">
-</a>
 
 <!-- Goals and Mentors Section -->
 <h2 class="section-heading">Goals with Mentors</h2>
