@@ -4,7 +4,7 @@ title:      "A New Kind of New Years"
 subtitle:   "Have you set goals for yourself this year?"
 date:       2017-01-25 12:00:00
 author:     "WSHS Voices"
-header-img: "img/post/post-bg-02.jpg"
+header-img: "img/post/post-bg-02.JPG"
 comments: true
 ---
 <!-- Start -->
