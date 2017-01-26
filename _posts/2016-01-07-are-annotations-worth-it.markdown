@@ -2,7 +2,7 @@
 layout:     post
 title:      "Are Annotations Worth It?"
 subtitle:   "They have the power to kill reading or save it!"
-date:       2017-11-07 12:00:00
+date:       2017-01-07 12:00:00
 author:     "WSHS Voices"
 header-img: "img/post/post-bg-01.jpg"
 comments: true
