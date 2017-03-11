@@ -62,8 +62,14 @@ comments: true
 
 <p>According to these two quotes, the FLEX periods are being used, and they are helping students complete assignments, and stay caught up on work.</p>
 
-<h2 class="section-heading">What is the Full Policy?</h2>
-<p>Mr. Mathison, an assistant principal, provided us with an exclusive look at the <a href="https://wshsamplified.com/extras/flex-policy.pdf">FLEX policy</a>. He also answered a few questions regarding FLEX that can be found <a href="#">here</a>. It clearly states that during FLEX there cannot be any new instruction, and that there is to be no down time. If we refer back to the data gathered from the twitter polls, we can observe that students rated free time the highest on both occasions. What is to be said for this?</p>
+<h2 class="section-heading">What is the FLEX Policy?</h2>
+<p>Mr. Mathison, an assistant principal, provided us with an exclusive look at the <a href="https://wshsamplified.com/extras/flex-policy.pdf">FLEX policy</a>. It clearly states that during FLEX there cannot be any new instruction, and that there is to be no down time. If we refer back to the data gathered from the twitter polls, we can observe that students rated free time the highest on both occasions.</p>
+
+<p>When asked a question regarding "downtime", Mr. Mathison kindly expressed the following opinion.</p>
+
+<blockquote>Absolutely! I think the flex periods would be a great time to involve students in activities that build a sense of school and classroom community. At the beginning of the year we had several teachers present team building activities to the faculty for use during flex periods. I think teachers would be open to learning about more activities to use with students throughout the year. I would also like to see us use flex periods to address study skills and work habits that would help our students develop the habits of mind to be successful in high school and beyond.</blockquote>
+
+<p>This quote supports downtime and worktime. A carful balance can be struck to achieve maximum performance, as well as satisfaction. This way, students are not slacking off, but instead activly participating in mind freeing activities with their fellow Vikings.</p>
 
 <!-- Beyond flexible section -->
 <h2 class="section-heading">Beyond Flexible</h2>
