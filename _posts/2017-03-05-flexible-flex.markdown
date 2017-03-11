@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Flexible Flex?"
-subtitle:   "Can alternate activities create fun classrooms?"
+subtitle:   "Can alternate activities a better learning environment for students and teachers?"
 date:       2017-03-05 12:00:00
 author:     "WSHS Voices"
 header-img: "img/post/post-bg-01.jpg"
@@ -33,7 +33,7 @@ comments: true
 
 <!-- Viking Perspectives section -->
 <h2 class="section-heading">Viking Perspectives</h2>
-<p>From speaking to teachers, we find that most of them allow students to FLEX out based on their current academic standing. Ms. Greenfield, a mathematics teacher here at Woodbridge states</p>
+<p>From speaking to teachers, we find that most of them allow students to FLEX out based on their current academic standing. Ms. Greenfield, a mathematics teacher here at Woodbridge states the following.</p>
 
 <!-- Greenfield quote -->
 <blockquote>I do allow my students to flex out based on their current performance in my class. Obviously a student who is struggling in class needs to be in the flex period to use that time to catch up.</blockquote>
