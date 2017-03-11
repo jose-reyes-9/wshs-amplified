@@ -29,7 +29,7 @@ comments: true
 </ul>
 
 <!-- Data explanation -->
-<p>In addition to these choices, the Viking community submitted options of their own. All of which suggested study time and student tutoring as an alternative during flex. From this data we can infer that although FLEX periods are decent, they are nowhere near where they should be to maximize both student and teacher needs.</p>
+<p>In addition to these choices, the Viking community submitted options of their own. All of which suggested study time and student tutoring as an alternative during flex. From this data we can infer that although FLEX periods are decent, they are nowhere near where they should be to meet both student and teacher needs.</p>
 
 <!-- Viking Perspectives section -->
 <h2 class="section-heading">Viking Perspectives</h2>
