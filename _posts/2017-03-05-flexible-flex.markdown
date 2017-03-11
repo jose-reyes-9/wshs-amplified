@@ -33,9 +33,9 @@ comments: true
 
 <!-- Viking Perspectives section -->
 <h2 class="section-heading">Viking Perspectives</h2>
-<p>From speaking to teachers, we find that most of them allow students to FLEX out based on their current academic standing. Ms. Greenfield, a mathematics teacher here at Woodbridge states the following.</p>
+<p>From speaking to teachers, we find that most of them allow students to FLEX out based on their current academic standing. Mr. Greenfield, a mathematics teacher here at Woodbridge states the following.</p>
 
-<!-- Greenfield quote -->
+<!-- Mr. Greenfield quote -->
 <blockquote>I do allow my students to flex out based on their current performance in my class. Obviously a student who is struggling in class needs to be in the flex period to use that time to catch up.</blockquote>
 
 <p>She also mentions a small tutoring program that runs during FLEX specifically for math students.</p>
