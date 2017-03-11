@@ -4,7 +4,7 @@ title:      "Flexible Flex?"
 subtitle:   "Can alternate activities a better learning environment for students and teachers?"
 date:       2017-03-05 12:00:00
 author:     "WSHS Voices"
-header-img: "img/post/post-bg-01.jpg"
+header-img: "img/post/post-bg-03.jpg"
 comments: true
 ---
 <!-- Start -->
