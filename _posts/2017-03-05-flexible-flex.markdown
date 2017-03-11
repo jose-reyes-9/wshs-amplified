@@ -85,7 +85,7 @@ comments: true
 
 <p>There are many alternatives to free time that could be implemented within the classrooms. These activities would not disregard learning entirely, but it would not limit students to a rigid system.</p>
 
-<p>Team building activities, sport club meetings, and other activities could allow students to take a break from the education system, but not from learning. Research proves that time off assignments, which allow students to learn while they rest, is imperative for right and proper functioning of brain and our overall health. How are we allowing our students to go without breaks during the day, and then expecting them to perform at their full potential?</p>
+<p>Team building activities, sport club meetings, and other activities could allow students to take a break from the education system, but not from learning. Research proves that time off assignments, which allow students to learn while they rest, is imperative for right and proper functioning of brain and our overall health. How are students going through the school day without an significant break, and then expected to perform 110% on assignment?</p>
 
 <p>For most issues there is a clear and simple solution. As for this one, we must further explore and discuss options that will allow everyone in the environment to thrive. Finding a win - win compromise that promotes collaboration between students, teachers, and admin.</p>
 
