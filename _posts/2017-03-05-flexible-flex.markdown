@@ -38,16 +38,16 @@ comments: true
 <!-- Mr. Greenfield quote -->
 <blockquote>I do allow my students to flex out based on their current performance in my class. Obviously a student who is struggling in class needs to be in the flex period to use that time to catch up.</blockquote>
 
-<p>She also mentions a small tutoring program that runs during FLEX specifically for math students.</p>
+<p>He also mentions that the math honors society, a small tutoring program that runs during FLEX specifically for math students, has seen promising results.</p>
 
 <!-- Quote continued -->
 <blockquote>Our tutors are strong math students and provide assistance to other students in the senior lounge during flex periods. Students are able to flex into the senior lounge from any of their classes just like the normally would, only they are flexing in to get help from a peer and not a teacher.</blockquote>
 
-<p>She claims,</p>
+<p>He claims,</p>
 
 <blockquote>This has been a great success this year and is something I would like to see implemented on a much larger scale down the road.</blockquote>
 
-<p>This is a way students can help other students and learn to grow from one another. This further helps develope relationships between students as well as create a sense of security through empathy.</p>
+<p>This is a way students can collaborate to learn and grow from one another. This further helps develop relationships between students and assists in creating a sense of security through empathy.</p>
 
 <!-- Ms. Dobson quote -->
 <p>Ms. Dobson, the teacher for the deaf and hard of hearing, states</p>
@@ -69,8 +69,13 @@ comments: true
 
 <blockquote>Absolutely! I think the flex periods would be a great time to involve students in activities that build a sense of school and classroom community. At the beginning of the year we had several teachers present team building activities to the faculty for use during flex periods. I think teachers would be open to learning about more activities to use with students throughout the year. I would also like to see us use flex periods to address study skills and work habits that would help our students develop the habits of mind to be successful in high school and beyond.</blockquote>
 
-<p>This quote supports downtime and worktime. A carful balance can be struck to achieve maximum performance, as well as satisfaction. This way, students are not slacking off, but instead activly participating in mind freeing activities with their fellow Vikings.</p>
+<p>This quote supports downtime and worktime. A careful balance can be struck to achieve maximum performance, as well as satisfaction. This way, students are not slacking off, but instead actively participating in mind freeing activities with their fellow Vikings.</p>
 
+<p>A freshman, entirely new to the flex periods says, </p>
+
+<blockquote>I personally feel cheated because I was told that we weren't going to learn new things but I'm taking notes every single day in [history] FLEX. So I don't know, and I feel that shifting out of classes kind of confusing, they don't really explain it that well. Other than that most other classes it's a free period, they pretty much let you do your own thing.</blockquote>
+
+<p>If we take into account this quote, the FLEX policy is being broken during every period. In one class the freshman is taking notes on new material (inferred), and in the others they are simply doing nothing. What can be done to ensure there is a result that will promote both active participation and "downtime".</p>
 <!-- Beyond flexible section -->
 <h2 class="section-heading">Beyond Flexible</h2>
 
@@ -81,6 +86,8 @@ comments: true
 <p>There are many alternatives to free time that could be implemented within the classrooms. These activities would not disregard learning entirely, but it would not limit students to a rigid system.</p>
 
 <p>Team building activities, sport club meetings, and other activities could allow students to take a break from the education system, but not from learning. Research proves that time off assignments, which allow students to learn while they rest, is imperative for right and proper functioning of brain and our overall health. How are we allowing our students to go without breaks during the day, and then expecting them to perform at their full potential?</p>
+
+<p>For most issues there is a clear and simple solution. As for this one, we must further explore and discuss options that will allow everyone in the environment to thrive. Finding a win - win compromise that promotes collaboration between students, teachers, and admin.</p>
 
 <hr>
 
