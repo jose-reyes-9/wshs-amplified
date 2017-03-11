@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Flexible Flex?"
-subtitle:   "Alternate activities create fun classrooms."
+subtitle:   "Can alternate activities create fun classrooms?"
 date:       2017-03-05 12:00:00
 author:     "WSHS Voices"
 header-img: "img/post/post-bg-01.jpg"
