@@ -80,7 +80,7 @@ comments: true
 <h2 class="section-heading">Beyond Flexible</h2>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post/inner/post03-img01.gif" alt="rest is needed">
+    <img src="{{ site.baseurl }}/img/post/inner/post03-img01.gif" alt="studying guy">
 </a>
 
 <p>There are many alternatives to free time that could be implemented within the classrooms. These activities would not disregard learning entirely, but it would not limit students to a rigid system.</p>
