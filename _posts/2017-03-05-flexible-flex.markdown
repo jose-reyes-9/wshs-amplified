@@ -80,7 +80,7 @@ comments: true
 <h2 class="section-heading">Beyond Flexible</h2>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post/inner/post03-img02.gif" alt="rest is needed">
+    <img src="{{ site.baseurl }}/img/post/inner/post03-img01.gif" alt="rest is needed">
 </a>
 
 <p>There are many alternatives to free time that could be implemented within the classrooms. These activities would not disregard learning entirely, but it would not limit students to a rigid system.</p>
@@ -101,5 +101,5 @@ comments: true
 <p>Sources</p>
 <ul>
   <li><a href="https://www.entrepreneur.com/article/282775">Rest Study</a></li>
-  <li><a href="https://dribbble.com/thelittlelabs">Imagination Image</a></li>
+  <li><a href="https://dribbble.com/thelittlelabs">Images</a></li>
 </ul>
