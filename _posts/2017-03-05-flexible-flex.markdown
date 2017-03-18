@@ -63,6 +63,9 @@ comments: true
 <p>According to these two quotes, the FLEX periods are being used, and they are helping students complete assignments, and stay caught up on work.</p>
 
 <h2 class="section-heading">What is the FLEX Policy?</h2>
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post/inner/post03-img01.jpg" alt="studying guy">
+</a>
 <p>Mr. Mathison, an assistant principal, provided us with an exclusive look at the <a href="https://wshsamplified.com/extras/flex-policy.pdf">FLEX policy</a>. It clearly states that during FLEX there cannot be any new instruction, and that there is to be no down time. If we refer back to the data gathered from the twitter polls, we can observe that students rated free time the highest on both occasions.</p>
 
 <p>When asked a question regarding "downtime", Mr. Mathison kindly expressed the following opinion.</p>
@@ -80,7 +83,7 @@ comments: true
 <h2 class="section-heading">Beyond Flexible</h2>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post/inner/post03-img01.gif" alt="studying guy">
+    <img src="{{ site.baseurl }}/img/post/inner/post03-img02.gif" alt="studying guy">
 </a>
 
 <p>There are many alternatives to free time that could be implemented within the classrooms. These activities would not disregard learning entirely, but it would not limit students to a rigid system.</p>
@@ -101,5 +104,6 @@ comments: true
 <p>Sources</p>
 <ul>
   <li><a href="https://www.entrepreneur.com/article/282775">Rest Study</a></li>
-  <li><a href="https://dribbble.com/thelittlelabs">Images</a></li>
+  <li><a href="https://dribbble.com/thelittlelabs">Late Night Image</a></li>
+  <li><a href="https://dribbble.com/shots/2393305-Ch-Ch-Check-it">Policy Image</a></li>
 </ul>
