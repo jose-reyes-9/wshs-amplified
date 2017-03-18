@@ -4,14 +4,14 @@ title: WSHS AMPLIFIED
 header-img: img/home-bg.jpg
 email: woodbridgeamplified@gmail.com
 copyright_name: Amplified Inc.
-description: "A digital platform that empowers students by amplifying their voices to higher levels of administration."
+description: "A digital platform that allows student, teachers, and administration to find solutions to problems in their learning environments."
 baseurl: ""
 url: https://www.wshsamplified.com   # with the https protocol
 enforce_ssl: wshsamplified.com   # without any protocol
 twitter_username: WSHSAmplified
-github_username:  WSHSAmplified
-facebook_username:  WSHSAmplified
-email_username:  your-email@yourdomain.com
+github_username:  jose-reyes-9
+facebook_username:  wshs amplified
+email_username:  woodbridgeamplified@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
