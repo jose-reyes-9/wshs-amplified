@@ -31,7 +31,9 @@ this needed relationship.
 </p>
 
 <!-- Improving Together Section -->
-<h2 class="section-heading"></h2>
+<h2 class="section-heading">Improving Learning Together</h2>
+<p>A relationship characterized by agreement, mutual understanding, or empathy that makes communication possible is the ideal relationship between students and teachers. Classrooms will thrive on this understanding and caring relationship. A recent study conducted by RAND Corporation’s education branch suggests that a teacher’s impact on student success remains consistent even if the teacher changes schools. The teacher still affects the students in a major way.</p>
+
 
 
 
