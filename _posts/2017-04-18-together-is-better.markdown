@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Together is Better"
-subtitle:   "Working together instead of against each other to solve problems in the environment we both have to work through."
+subtitle:   "Working together instead of against each other to solve problems within our shared environment."
 date:       2017-04-18 12:00:00
 author:     "WSHS Voices"
 header-img: "img/post/post-bg-03.jpg"
