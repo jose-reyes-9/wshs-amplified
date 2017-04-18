@@ -1,5 +1,3 @@
-<!--
-
 ---
 layout:     post
 title:      "Together is Better"
@@ -30,8 +28,6 @@ this needed relationship.
 
 <!-- Improving Together Section -->
 <h2 class="section-heading"></h2>
-
--->
 
 
 
