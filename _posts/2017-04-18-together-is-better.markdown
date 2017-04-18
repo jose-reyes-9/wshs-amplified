@@ -17,8 +17,12 @@ that the community feels a good relationship will positively contribute to their
 
 <!-- Twitter Polls-->
 <h2 class="section-heading">Twitter Polls</h2>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How many teachers do you feel comfortable with this year?</p>&mdash;
 WSHS Amplified (@WSHSAmplified) <a href="https://twitter.com/WSHSAmplified/status/849070829967204353">April 4, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Do you think having a positive relationship with your teachers correlates with your grades? <a href="https://twitter.com/hashtag/AprilBlogComing?src=hash">#AprilBlogComing</a></p>&mdash; WSHS Amplified (@WSHSAmplified) <a href="https://twitter.com/WSHSAmplified/status/849419725142708224">April 5, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p>The twitter poll shows us that students only have around 1-2 teachers they feel comfortable with, and at the same time, they feel that 
