@@ -46,7 +46,7 @@ this needed relationship.
 differ in politics, the same can happen in an educational environment. Here is some insight on working together to 
 overcome our differences.</p>
 
-<iframe src="https://embed.ted.com/talks/robb_willer_how_to_have_better_political_conversations" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe style="margin-left: auto; margin-right: auto; src="https://embed.ted.com/talks/robb_willer_how_to_have_better_political_conversations" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <!--Conclusion Section-->
 <h2 class="section-heading">Building Bonds</h2>
