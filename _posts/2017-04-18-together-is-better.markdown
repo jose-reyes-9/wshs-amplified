@@ -34,7 +34,7 @@ this needed relationship.
 <h2 class="section-heading">Improving Learning Together</h2>
 <p>A relationship characterized by agreement, mutual understanding, or empathy that makes communication possible is the ideal relationship between students and teachers. Classrooms will thrive on this understanding and caring relationship. A recent study conducted by RAND Corporation’s education branch suggests that a teacher’s impact on student success remains consistent even if the teacher changes schools. The teacher still affects the students in a major way.</p>
 
-<img src="{{ site.baseurl }}/img/post/inner/post04-img01.jpg" alt="student and teacher shaking hands">
+<img style="margin-left: auto; margin-right: auto;" src="{{ site.baseurl }}/img/post/inner/post04-img01.jpg" alt="student and teacher shaking hands">
 
 <!--As Small as a Smile Section-->
 <h2 class="section-heading">As Small as a smile</h2>
