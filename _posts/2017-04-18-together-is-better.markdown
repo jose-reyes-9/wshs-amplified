@@ -12,7 +12,7 @@ comments: true
 misunderstood. One party feels that the other is not doing enough, while the other party thinks they are already doing too much.  A good
 relationship is not always encouraged within the educational system; because the system dictates that the purpose of school for a student 
 is to get a superficial grade, not to build relationships that will encourage personal growth and individual development. As for teachers,
-the system dictates that they must have passing students, not inspired and motivated ones. 
+the system dictates that they must have passing students, but not inspired and motivated ones. 
 </p>
 
 <!-- Twitter Polls-->
