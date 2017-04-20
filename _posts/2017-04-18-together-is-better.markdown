@@ -45,7 +45,7 @@ this needed relationship with a sufficient ammount of their teachers.
 <p>The TED Talk below is about different people learning to work with one another to solve problems they both face on a daily basis. Working past their differences by listening, respecting, and understanding each others views. Educational environment have a similar problem, but two simple factors can yield
 great success.</p>
 
-<iframe src="https://embed.ted.com/talks/robb_willer_how_to_have_better_political_conversations" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6V6p1tgHfm0" frameborder="0" allowfullscreen></iframe>
 
 <!--Conclusion Section-->
 <h2 class="section-heading">Building Bonds</h2>
