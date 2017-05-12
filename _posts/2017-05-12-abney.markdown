@@ -4,7 +4,7 @@ title:      "Mrs. Abney, it's your special day!"
 subtitle:   "We owe it to you, as students and teachers, as leaders, as a school, and as a community!"
 date:       2017-05-12 12:00:00
 author:     "WSHS Voices"
-header-img: "img/post/post-bg-01.jpg"
+header-img: "img/post/abney.jpg"
 comments: false
 ---
 <h2>Thank you for everything. Without you we wouldn't be where we are today, as leaders, as a school, and as a family!</h2>
