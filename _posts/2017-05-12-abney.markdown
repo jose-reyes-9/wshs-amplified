@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Happy Birthday Mrs. Abney!"
+title:      "Mrs. Abney, it's your special day!"
 subtitle:   "We owe it to you, as students and teachers, as leaders, as a school, and as a community!"
 date:       2017-05-12 12:00:00
 author:     "WSHS Voices"
