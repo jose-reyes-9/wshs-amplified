@@ -4,7 +4,7 @@ title:      "School Lunches"
 subtitle:   "Are they great or just good enough?"
 date:       2017-06-01 12:00:00
 author:     "WSHS Voices"
-header-img: "img/post/post-bg-05.jpg"
+header-img: "img/post/post-bg-02.jpg"
 comments: false
 ---
 <!-- Start -->
