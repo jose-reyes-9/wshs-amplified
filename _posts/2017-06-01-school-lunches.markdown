@@ -4,7 +4,7 @@ title:      "School Lunches"
 subtitle:   "Are they great or just good enough?"
 date:       2017-06-01 12:00:00
 author:     "WSHS Voices"
-header-img: "img/post/post-bg-01.jpg"
+header-img: "img/post/post-bg-05.jpg"
 comments: false
 ---
 <!-- Start -->
@@ -27,7 +27,7 @@ comments: false
 </ul>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post/inner/post02-img01.jpg" alt="old and new">
+    <img src="{{ site.baseurl }}/img/post/inner/post05-img01.jpg" alt="school lunches background photo">
 </a>
 
 <!-- Ms. Landes Quote -->
