@@ -50,7 +50,7 @@ comments: true
 <blockquote>Annotating a text for a deeper and richer understanding is a vital skill to have. It should be taught in all introductory classes as a means of observing patterns and analyzing meaning, purpose and audience. It’s imperative for students to learn this skill as they begin to tackle complex textbook chapters, essays, speeches, poems and short prose. However, when it pertains to longer texts, like a novel or novella, I think a more focused approach is necessary. I believe annotating novels should be limited to one or two targets that will later be utilized in a piece of writing, teaching, or discussion. This allows for a focused approach for mastery and preserves the appreciation for and enjoyment of the text.</blockquote>
 
 <!-- Do students miss it? Quote from 10th grader -->
-<p>But… do students who are used to annotations in previous courses miss the enforcement of writing in their books? Well, Tyler Donovan, 10th grade student, remarks</p>
+<p>But.. do students who are used to annotations in previous courses miss the enforcement of writing in their books? Well, Tyler Donovan, 10th grade student, remarks</p>
 
 <blockquote>Yes because they helped me keep track of all my thoughts and questions about the text I was working with.</blockquote>
 
