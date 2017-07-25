@@ -28,7 +28,7 @@ comments: false
 
 <p>Sources</p>
 <ul>
-    <li><a href="google.com">This was the google site</a></li>
+    <li><a href="google.com">Statistics</a></li>
     <li><a href="yahoo.com">yahoo.com</a></li>
     <li><a href="wikipedia.com">123456789</a></li>
 </ul>
